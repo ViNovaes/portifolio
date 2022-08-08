@@ -1,0 +1,21 @@
+.container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: rgb(196, 178, 216);
+}
+
+.title{
+    margin: auto;
+}
+
+.area{
+    margin-bottom: 24px;
+}
+
+.title ul{
+    list-style: none;
+}
